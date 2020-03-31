@@ -9,3 +9,4 @@ Follow this order for the concepts:
 3. Class, Object, Packages and Access Specifiers
 4. Implementing Object-Oriented Programming in Java
 5. Working with Streams, Files, and I/O Handling
+6. Implementing Exception Handling
