@@ -10,4 +10,4 @@ Follow this order for the concepts:
 4. Implementing Object-Oriented Programming in Java
 5. Working with Streams, Files, and I/O Handling
 6. Implementing Exception Handling
-7. Working with Multiple Threads
+7. Working with Threads in Java
