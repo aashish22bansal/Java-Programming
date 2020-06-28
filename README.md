@@ -1,5 +1,5 @@
 # Java
-Consists of Java Programs
+Consists of Java Programs from Basic to Advance Level to level the Programming Language.
 
 The Programs uploaded in this Repository can be used for learning Java Programming.
 
