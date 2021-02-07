@@ -1,4 +1,4 @@
-public class Chapter_2_10_Creating_String_Literals
+public class Creating_String_Literals
 {
     public static void main(String[] args)
     {

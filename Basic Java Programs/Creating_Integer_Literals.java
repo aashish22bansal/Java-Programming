@@ -1,4 +1,4 @@
-public class Chapter_2_6_Creating_Integer_Literals
+public class Creating_Integer_Literals
 {
     public static void main(String[] args)
     {

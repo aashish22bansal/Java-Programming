@@ -1,4 +1,4 @@
-public class Chapter_2_8_Creating_Boolean_Literals
+public class Creating_Boolean_Literals
 {
     public static void main(String[] args)
     {

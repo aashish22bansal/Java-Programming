@@ -1,4 +1,4 @@
-public class Chapter_2_3_Arrays
+public class Arrays
 {
     public static void main(String[] args)
     {

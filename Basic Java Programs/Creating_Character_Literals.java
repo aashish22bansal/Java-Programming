@@ -1,4 +1,4 @@
-public class Chapter_2_9_Creating_Character_Literals
+public class Creating_Character_Literals
 {
     public static void main(String[] args)
     {

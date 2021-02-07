@@ -1,4 +1,4 @@
-public class Chapter_2_7_Creating_Floating_Point_Literals
+public class Creating_Floating_Point_Literals
 {
     public static void main(String[] args)
     {

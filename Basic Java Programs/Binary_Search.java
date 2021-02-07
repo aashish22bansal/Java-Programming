@@ -36,7 +36,7 @@ public class Binary_Search
                 last = middle + 1;
             }
         }
-        if((search<first)||(search>last))
+        if((search<first)&&(search>last))
         {
             System.out.print("The element "+search+" was not present in the list.");
         }
