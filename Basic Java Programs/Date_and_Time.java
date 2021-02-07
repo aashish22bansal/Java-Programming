@@ -1,6 +1,5 @@
-import sun.util.resources.cldr.ln.CalendarData_ln_CD;
-
-import java.util.*;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
 public class Date_and_Time
 {
     public static void main(String args[])
